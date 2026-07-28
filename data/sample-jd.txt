@@ -1,0 +1,54 @@
+Senior AI Engineer @ TechCorp
+
+**Location:** San Francisco, CA (Remote OK)  
+**Salary:** $180k-$220k USD  
+**Experience Required:** 5+ years
+
+## About the Role
+
+We're building the next generation of AI infrastructure and are looking for a Senior AI Engineer to lead our LLM initiatives. You'll work on cutting-edge problems at scale.
+
+## Responsibilities
+
+- Design and implement large-scale AI systems
+- Lead technical architecture decisions for LLM applications
+- Mentor junior engineers on AI/ML best practices
+- Collaborate with product and research teams
+- Contribute to internal tools and frameworks
+- Write clean, maintainable code with strong documentation
+
+## Requirements
+
+- 5+ years of software engineering experience
+- 2+ years working with LLMs or Transformers
+- Expert Python (other languages a plus)
+- Strong understanding of prompt engineering
+- Experience with distributed systems and Kubernetes
+- Understanding of ML/AI concepts and limitations
+- Strong communication and mentoring skills
+
+## Nice to Have
+
+- Published research or open source contributions
+- Experience with fine-tuning or RLHF
+- Knowledge of vector databases and RAG patterns
+- Experience with LLM evaluation frameworks
+- Multi-agent systems experience
+
+## Benefits
+
+- Competitive salary + equity package
+- Full health coverage (medical, dental, vision)
+- Unlimited PTO
+- Remote-first culture (San Francisco office available)
+- Professional development budget
+- Latest hardware and tools
+- Visa sponsorship available
+
+## About Us
+
+TechCorp is a leading AI infrastructure company backed by top-tier VCs. Our mission is to make advanced AI systems accessible to everyone. We're a 50-person team with a strong engineering culture.
+
+## How to Apply
+
+Please submit your CV, GitHub profile (or portfolio), and a brief cover letter explaining why you're interested in this role.

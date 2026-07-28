@@ -1,6 +1,7 @@
 # Personal data — NEVER commit these
 cv.md
 config/profile.yml
+data/logger
 data/pipeline.json
 data/scan_results.json
 data/dashboard_preview.html
