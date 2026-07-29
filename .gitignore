@@ -19,6 +19,14 @@ output/
 node_modules/
 package-lock.json
 
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.mypy_cache/
+.pytest_cache/
+
 # OS
 .DS_Store
 Thumbs.db
