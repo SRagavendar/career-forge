@@ -7,7 +7,7 @@ echo "===================="
 echo ""
 
 # Check Python version
-python_version=$(python3 --version 2>&1 | grep -oP '\d+\.\d+')
+python_version=$(python3 --version 2>&1 | grep -oE '[0-9]+\.[0-9]+')
 echo "✅ Python $python_version detected"
 
 # Check Poetry
